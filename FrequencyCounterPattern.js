@@ -7,10 +7,10 @@
 • Two solutions to the same problem.
 
 • The first one is solving the problem with a nested loops, what is a thing that should be avoided, 
-  it makes an algorithm with a notation of o(n²) according to big-O notation.
+  it makes an algorithm with a complexity of o(n²) according to big-O notation.
 
 • The second one is solving the problem with two separeted loops, what is a good option to avoid the nested loops, 
-  it makes an algorithm with a notation of o(n) according to big-O notation.
+  it makes an algorithm with a complexity of o(n) according to big-O notation.
 
 */
 
